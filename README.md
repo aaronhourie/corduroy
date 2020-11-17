@@ -1,5 +1,5 @@
 # corduroy
-FM Synthesis with a ESP32 and a YM2612.
+FM Synthesis with an ESP32 and a YM2612.
 
 This project is under construction! Soon I'll include some wiring diagrams.
 
